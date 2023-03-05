@@ -1,0 +1,407 @@
+k data-ignore="true" rel="Bookmark" type="image/x-icon" href="//qidian.gtimg.com/qd/favicon/qd_icon.c443c.ico">ico">小说,首发小说,最新章节免费">
+<link rel="stylesheet" data-ignore="true" href="//qidian.gtimg.com/c/=/qd/css/lbfUI/css/Checkbox.ef549.css,/qd/css/reset.ddecf.css,/qd/css/global.d41d8.css,/qd/css/font.9fe86.css,/qd/css/header.dfa83.css,/qd/css/module.a8ad8.css,/qd/css/list_module.5577c.css,/qd/css/all_finish.a503a.css,/qd/css/layout.2aada.css,/qd/css/qd_popup.ed72c.css,/qd/css/footer.49872.css,/qd/css/lbfUI/css/ComboBox.8997f.css,/qd/css/lbfUI/css/Button.e5a3e.css" />
+        <div class="range-sidebar fl" data-l1="4">ian.com/ActivityLibrary/CommonIndex/Index?pageCode=e357c440af7242bf72c3c49667b73019&amp;qd_game_key=192x86&amp;qd_dd_p1=124" data-eid="qd_A38" target="_blank"><img src="//qidian.qpic.cn/qidian_common/349573/a267d15e73cdd85fb78c12a512c683a2/0"><span class="op-tag"></span></a></p>="qd_A10">退出</a>
+    <div class="site" data-l2="1">
+        <a class="act" data-eid="qd_B84" href="javascript:">男生</a><a href="//www.qidian.com/mm/all" target="_blank" data-eid="qd_B15">女生</a>
+        
+            <a href="//www.qidian.com/all_pub" data-eid="qd_B85">出版</a>
+        
+    </div>
+    <div class="selected" data-l2="2">
+        <p><span>已选</span>
+            
+            
+            <a class="all" href="javascript:" type="all">全部</a>
+            
+    </div>
+    
+    <div class="select-list">
+        <div class="work-filter type-filter" data-l2="3">
+            <h3>分类</h3>
+            <ul class="row-1" type="category">
+                
+                <li data-id="-1" class="act arrow"><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B17">全部</a></li>
+                
+                <li data-id="21" class=""><a href="//www.qidian.com/all?chanId=21&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B18">玄幻<cite><i></i></cite></a></li>
+                
+                <li data-id="1" class=""><a href="//www.qidian.com/all?chanId=1&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B19">奇幻<cite><i></i></cite></a></li>
+                
+                <li data-id="2" class=""><a href="//www.qidian.com/all?chanId=2&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B20">武侠<cite><i></i></cite></a></li>
+                
+                <li data-id="22" class=""><a href="//www.qidian.com/all?chanId=22&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B21">仙侠<cite><i></i></cite></a></li>
+                
+            </ul>
+            
+            <ul class="row-2" type="category">
+                
+                <li data-id="4" class=""><a href="//www.qidian.com/all?chanId=4&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B22">都市<cite><i></i></cite></a></li>
+                
+                <li data-id="15" class=""><a href="//www.qidian.com/all?chanId=15&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B23">现实<cite><i></i></cite></a></li>
+                
+                <li data-id="6" class=""><a href="//www.qidian.com/all?chanId=6&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B24">军事<cite><i></i></cite></a></li>
+                
+                <li data-id="5" class=""><a href="//www.qidian.com/all?chanId=5&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B25">历史<cite><i></i></cite></a></li>
+                
+                <li data-id="7" class=""><a href="//www.qidian.com/all?chanId=7&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B26">游戏<cite><i></i></cite></a></li>
+                
+            </ul>
+            
+            <ul class="row-3" type="category">
+                
+                <li data-id="8" class=""><a href="//www.qidian.com/all?chanId=8&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B27">体育<cite><i></i></cite></a></li>
+                
+                <li data-id="9" class=""><a href="//www.qidian.com/all?chanId=9&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B28">科幻<cite><i></i></cite></a></li>
+                
+                <li data-id="10" class=""><a href="//www.qidian.com/all?chanId=10&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B29">悬疑<cite><i></i></cite></a></li>
+                
+                <li data-id="12" class=""><a href="//www.qidian.com/all?chanId=12&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B30">轻小说<cite><i></i></cite></a></li>
+                
+                <li data-id="20076" class=""><a href="//www.qidian.com/all?chanId=20076&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B70">短篇<cite><i></i></cite></a></li>
+                
+            </ul>
+            
+        </div>
+        
+        <div class="work-filter action-filter" data-l2="4">
+            
+            <h3>状态</h3>
+            <ul type="action">
+                
+                <li data-id="-1" class="act"><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B31">全部</a></li>
+                
+                <li data-id="0" class=""><a href="//www.qidian.com/all?action=0&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B32">连载</a></li>
+                
+                <li data-id="1" class=""><a href="//www.qidian.com/all?action=1&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B33">完本</a></li>
+                
+            </ul>
+        </div>
+        
+        
+        
+        <div class="work-filter vip-filter" data-l2="5">
+            <h3>属性</h3>
+            <ul type="vip">
+                
+                <li data-id="-1" class="act"><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B34">全部</a></li>
+                
+                <li data-id="0" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;vip=0&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B35">免费</a></li>
+                
+                <li data-id="1" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;vip=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B36">VIP</a></li>
+                
+            </ul>
+        </div>
+        
+        <div class="work-filter" data-l2="6">
+            
+            <h3>字数</h3>
+            <ul type="size">
+                
+                <li data-id="-1" class="act"><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B37">全部</a></li>
+                
+                <li data-id="1" class=""><a href="//www.qidian.com/all?size=1&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B38">30万字以下</a></li>
+                
+                <li data-id="2" class=""><a href="//www.qidian.com/all?size=2&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B39">30-50万字</a></li>
+                
+                <li data-id="3" class=""><a href="//www.qidian.com/all?size=3&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B40">50-100万字</a></li>
+                
+                <li data-id="4" class=""><a href="//www.qidian.com/all?size=4&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B41">100-200万字</a></li>
+                
+                <li data-id="5" class=""><a href="//www.qidian.com/all?size=5&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B42">200万字以上</a></li>
+                
+            </ul>
+        </div>
+        <div class="work-filter"  data-l2="7">
+            
+            <h3>品质</h3>
+            <ul type="sign">
+                
+                <li data-id="-1" class="act"><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B43">全部</a></li>
+                
+                <li data-id="1" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;sign=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B44">签约作品</a></li>
+                
+                <li data-id="2" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;sign=2&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B45">精品小说</a></li>
+                
+            </ul>
+        </div>
+        <div class="work-filter"  data-l2="9">
+            
+            <h3>更新时间</h3>
+            <ul type="update">
+                
+                <li data-id="-1" class="act"><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B71">全部</a></li>
+                
+                <li data-id="1" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;update=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B72">三日内</a></li>
+                
+                <li data-id="2" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;update=2&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B73">七日内</a></li>
+                
+                <li data-id="3" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;update=3&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B74">半月内</a></li>
+                
+                <li data-id="4" class=""><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;update=4&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" data-eid="qd_B75">一月内</a></li>
+                
+            </ul>
+        </div>
+        <div class="work-filter tag" data-l2="8" >
+            <h3>标签</h3>
+            
+            <ul type="tag">
+                
+                <li  data-eid="qd_B46" class='act'><a href="//www.qidian.com/all?orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">全部</a></li>
+                
+                <li data-eid="qd_B47" data-tid="豪门" ><a href="//www.qidian.com/all?tag=豪门&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >豪门</a></li>
+                
+                <li data-eid="qd_B47" data-tid="孤儿" ><a href="//www.qidian.com/all?tag=孤儿&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >孤儿</a></li>
+                
+                <li data-eid="qd_B47" data-tid="盗贼" ><a href="//www.qidian.com/all?tag=盗贼&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >盗贼</a></li>
+                
+                <li data-eid="qd_B47" data-tid="特工" ><a href="//www.qidian.com/all?tag=特工&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >特工</a></li>
+                
+                <li data-eid="qd_B47" data-tid="黑客" ><a href="//www.qidian.com/all?tag=黑客&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >黑客</a></li>
+                
+                <li data-eid="qd_B47" data-tid="明星" ><a href="//www.qidian.com/all?tag=明星&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >明星</a></li>
+                
+                <li data-eid="qd_B47" data-tid="特种兵" ><a href="//www.qidian.com/all?tag=特种兵&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >特种兵</a></li>
+                
+                <li data-eid="qd_B47" data-tid="杀手" ><a href="//www.qidian.com/all?tag=杀手&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >杀手</a></li>
+                
+                <li data-eid="qd_B47" data-tid="老师" ><a href="//www.qidian.com/all?tag=老师&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >老师</a></li>
+                
+                <li data-eid="qd_B47" data-tid="学生" ><a href="//www.qidian.com/all?tag=学生&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0" >学生</a></li>
+                
+                
+                <li class="more" id="unfold"><a href="javascript:" data-eid="qd_B48">展开<span><i></i></span></a></li>
+                
+                <li data-eid="qd_B47" data-tid="胖子" class="hidden"><a href="//www.qidian.com/all?tag=胖子&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">胖子</a></li>
+                
+                <li data-eid="qd_B47" data-tid="宠物" class="hidden"><a href="//www.qidian.com/all?tag=宠物&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">宠物</a></li>
+                
+                <li data-eid="qd_B47" data-tid="蜀山" class="hidden"><a href="//www.qidian.com/all?tag=蜀山&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">蜀山</a></li>
+                
+                <li data-eid="qd_B47" data-tid="魔王附体" class="hidden"><a href="//www.qidian.com/all?tag=魔王附体&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">魔王附体</a></li>
+                
+                <li data-eid="qd_B47" data-tid="LOL" class="hidden"><a href="//www.qidian.com/all?tag=LOL&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">LOL</a></li>
+                
+                <li data-eid="qd_B47" data-tid="废材流" class="hidden"><a href="//www.qidian.com/all?tag=废材流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">废材流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="护短" class="hidden"><a href="//www.qidian.com/all?tag=护短&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">护短</a></li>
+                
+                <li data-eid="qd_B47" data-tid="卡片" class="hidden"><a href="//www.qidian.com/all?tag=卡片&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">卡片</a></li>
+                
+                <li data-eid="qd_B47" data-tid="手游" class="hidden"><a href="//www.qidian.com/all?tag=手游&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">手游</a></li>
+                
+                <li data-eid="qd_B47" data-tid="法师" class="hidden"><a href="//www.qidian.com/all?tag=法师&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">法师</a></li>
+                
+                <li data-eid="qd_B47" data-tid="医生" class="hidden"><a href="//www.qidian.com/all?tag=医生&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">医生</a></li>
+                
+                <li data-eid="qd_B47" data-tid="感情" class="hidden"><a href="//www.qidian.com/all?tag=感情&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">感情</a></li>
+                
+                <li data-eid="qd_B47" data-tid="鉴宝" class="hidden"><a href="//www.qidian.com/all?tag=鉴宝&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">鉴宝</a></li>
+                
+                <li data-eid="qd_B47" data-tid="亡灵" class="hidden"><a href="//www.qidian.com/all?tag=亡灵&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">亡灵</a></li>
+                
+                <li data-eid="qd_B47" data-tid="职场" class="hidden"><a href="//www.qidian.com/all?tag=职场&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">职场</a></li>
+                
+                <li data-eid="qd_B47" data-tid="吸血鬼" class="hidden"><a href="//www.qidian.com/all?tag=吸血鬼&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">吸血鬼</a></li>
+                
+                <li data-eid="qd_B47" data-tid="龙" class="hidden"><a href="//www.qidian.com/all?tag=龙&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">龙</a></li>
+                
+                <li data-eid="qd_B47" data-tid="西游" class="hidden"><a href="//www.qidian.com/all?tag=西游&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">西游</a></li>
+                
+                <li data-eid="qd_B47" data-tid="鬼怪" class="hidden"><a href="//www.qidian.com/all?tag=鬼怪&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">鬼怪</a></li>
+                
+                <li data-eid="qd_B47" data-tid="阵法" class="hidden"><a href="//www.qidian.com/all?tag=阵法&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">阵法</a></li>
+                
+                <li data-eid="qd_B47" data-tid="魔兽" class="hidden"><a href="//www.qidian.com/all?tag=魔兽&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">魔兽</a></li>
+                
+                <li data-eid="qd_B47" data-tid="勇猛" class="hidden"><a href="//www.qidian.com/all?tag=勇猛&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">勇猛</a></li>
+                
+                <li data-eid="qd_B47" data-tid="玄学" class="hidden"><a href="//www.qidian.com/all?tag=玄学&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">玄学</a></li>
+                
+                <li data-eid="qd_B47" data-tid="群穿" class="hidden"><a href="//www.qidian.com/all?tag=群穿&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">群穿</a></li>
+                
+                <li data-eid="qd_B47" data-tid="丹药" class="hidden"><a href="//www.qidian.com/all?tag=丹药&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">丹药</a></li>
+                
+                <li data-eid="qd_B47" data-tid="练功流" class="hidden"><a href="//www.qidian.com/all?tag=练功流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">练功流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="召唤流" class="hidden"><a href="//www.qidian.com/all?tag=召唤流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">召唤流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="恶搞" class="hidden"><a href="//www.qidian.com/all?tag=恶搞&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">恶搞</a></li>
+                
+                <li data-eid="qd_B47" data-tid="爆笑" class="hidden"><a href="//www.qidian.com/all?tag=爆笑&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">爆笑</a></li>
+                
+                <li data-eid="qd_B47" data-tid="轻松" class="hidden"><a href="//www.qidian.com/all?tag=轻松&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">轻松</a></li>
+                
+                <li data-eid="qd_B47" data-tid="冷酷" class="hidden"><a href="//www.qidian.com/all?tag=冷酷&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">冷酷</a></li>
+                
+                <li data-eid="qd_B47" data-tid="腹黑" class="hidden"><a href="//www.qidian.com/all?tag=腹黑&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">腹黑</a></li>
+                
+                <li data-eid="qd_B47" data-tid="阳光" class="hidden"><a href="//www.qidian.com/all?tag=阳光&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">阳光</a></li>
+                
+                <li data-eid="qd_B47" data-tid="狡猾" class="hidden"><a href="//www.qidian.com/all?tag=狡猾&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">狡猾</a></li>
+                
+                <li data-eid="qd_B47" data-tid="机智" class="hidden"><a href="//www.qidian.com/all?tag=机智&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">机智</a></li>
+                
+                <li data-eid="qd_B47" data-tid="猥琐" class="hidden"><a href="//www.qidian.com/all?tag=猥琐&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">猥琐</a></li>
+                
+                <li data-eid="qd_B47" data-tid="嚣张" class="hidden"><a href="//www.qidian.com/all?tag=嚣张&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">嚣张</a></li>
+                
+                <li data-eid="qd_B47" data-tid="淡定" class="hidden"><a href="//www.qidian.com/all?tag=淡定&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">淡定</a></li>
+                
+                <li data-eid="qd_B47" data-tid="僵尸" class="hidden"><a href="//www.qidian.com/all?tag=僵尸&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">僵尸</a></li>
+                
+                <li data-eid="qd_B47" data-tid="丧尸" class="hidden"><a href="//www.qidian.com/all?tag=丧尸&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">丧尸</a></li>
+                
+                <li data-eid="qd_B47" data-tid="盗墓" class="hidden"><a href="//www.qidian.com/all?tag=盗墓&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">盗墓</a></li>
+                
+                <li data-eid="qd_B47" data-tid="随身流" class="hidden"><a href="//www.qidian.com/all?tag=随身流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">随身流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="软饭流" class="hidden"><a href="//www.qidian.com/all?tag=软饭流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">软饭流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="无敌文" class="hidden"><a href="//www.qidian.com/all?tag=无敌文&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">无敌文</a></li>
+                
+                <li data-eid="qd_B47" data-tid="异兽流" class="hidden"><a href="//www.qidian.com/all?tag=异兽流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">异兽流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="系统流" class="hidden"><a href="//www.qidian.com/all?tag=系统流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">系统流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="洪荒流" class="hidden"><a href="//www.qidian.com/all?tag=洪荒流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">洪荒流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="学院流" class="hidden"><a href="//www.qidian.com/all?tag=学院流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">学院流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="位面" class="hidden"><a href="//www.qidian.com/all?tag=位面&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">位面</a></li>
+                
+                <li data-eid="qd_B47" data-tid="铁血" class="hidden"><a href="//www.qidian.com/all?tag=铁血&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">铁血</a></li>
+                
+                <li data-eid="qd_B47" data-tid="励志" class="hidden"><a href="//www.qidian.com/all?tag=励志&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">励志</a></li>
+                
+                <li data-eid="qd_B47" data-tid="坚毅" class="hidden"><a href="//www.qidian.com/all?tag=坚毅&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">坚毅</a></li>
+                
+                <li data-eid="qd_B47" data-tid="变身" class="hidden"><a href="//www.qidian.com/all?tag=变身&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">变身</a></li>
+                
+                <li data-eid="qd_B47" data-tid="强者回归" class="hidden"><a href="//www.qidian.com/all?tag=强者回归&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">强者回归</a></li>
+                
+                <li data-eid="qd_B47" data-tid="赚钱" class="hidden"><a href="//www.qidian.com/all?tag=赚钱&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">赚钱</a></li>
+                
+                <li data-eid="qd_B47" data-tid="争霸流" class="hidden"><a href="//www.qidian.com/all?tag=争霸流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">争霸流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="种田文" class="hidden"><a href="//www.qidian.com/all?tag=种田文&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">种田文</a></li>
+                
+                <li data-eid="qd_B47" data-tid="宅男" class="hidden"><a href="//www.qidian.com/all?tag=宅男&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">宅男</a></li>
+                
+                <li data-eid="qd_B47" data-tid="无限流" class="hidden"><a href="//www.qidian.com/all?tag=无限流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">无限流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="技术流" class="hidden"><a href="//www.qidian.com/all?tag=技术流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">技术流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="凡人流" class="hidden"><a href="//www.qidian.com/all?tag=凡人流&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">凡人流</a></li>
+                
+                <li data-eid="qd_B47" data-tid="热血" class="hidden"><a href="//www.qidian.com/all?tag=热血&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">热血</a></li>
+                
+                <li data-eid="qd_B47" data-tid="重生" class="hidden"><a href="//www.qidian.com/all?tag=重生&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">重生</a></li>
+                
+                <li data-eid="qd_B47" data-tid="穿越" class="hidden"><a href="//www.qidian.com/all?tag=穿越&amp;orderId=&amp;page=1&amp;style=1&amp;pageSize=20&amp;siteid=1&amp;pubflag=0&amp;hiddenField=0">穿越</a></li>
+                
+            </ul>
+        </div>
+    </div>
+         class="pagination fr" data-eid="qd_C44" id="page-container" data-pageMax="5" data-page="1">tps://qidian.gtimg.com/qd_anti_spider/pMIWzONJ.eot?') format('eot'); src: url('https://qidian.gtimg.com/qd_anti_spider/pMIWzONJ.woff') format('woff'), url('https://qidian.gtimg.com/qd_anti_spider/pMIWzONJ.ttf') format('truetype'); } .pMIWzONJ { font-family: 'pMIWzONJ' !important;     display: initial !important; color: inherit !important; vertical-align: initial !important; }</style><span class="pMIWzONJ">&#100408;&#100410;&#100410;&#100413;&#100415;&#100408;</span>万字</span>
+
+
+
+<div class="lbf-pagination">
+<ul class="lbf-pagination-item-list">
+
+<li class="lbf-pagination-item"><a href="javascript:;" class="lbf-pagination-prev lbf-pagination-disabled">&lt;</a></li>
+
+<li class="lbf-pagination-item"><a data-page="1" href="//www.qidian.com/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=1" class="lbf-pagination-page  lbf-pagination-current">1</a></li>
+
+
+
+<li class="lbf-pagination-item"><a data-page="2" href="//www.qidian.com/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=2" class="lbf-pagination-page  ">2</a></li>
+
+<li class="lbf-pagination-item"><a data-page="3" href="//www.qidian.com/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=3" class="lbf-pagination-page  ">3</a></li>
+
+<li class="lbf-pagination-item"><a data-page="4" href="//www.qidian.com/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=4" class="lbf-pagination-page  ">4</a></li>
+
+<li class="lbf-pagination-item"><a data-page="5" href="//www.qidian.com/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=5" class="lbf-pagination-page  ">5</a></li>
+
+
+
+<li class="lbf-pagination-item"><a href="//www.qidian.com/all?orderId=&style=1&pageSize=20&siteid=1&pubflag=0&hiddenField=0&page=2" class="lbf-pagination-next ">&gt;</a></li>
+
+</ul>
+<script>
+function PAGINATION_goInput(){function setParam(param,paramVal,url){if(!url){url="javascript:;";return url}var theAnchor=null;var newAdditionalURL="";var tempArray=url.split("?");var baseURL=tempArray[0];var additionalURL=tempArray[1];var temp="";if(additionalURL){var tmpAnchor=additionalURL.split("#");var TheParams=tmpAnchor[0];theAnchor=tmpAnchor[1];if(theAnchor)additionalURL=TheParams;tempArray=additionalURL.split("&");for(o=0;o<tempArray.length;o++){if(tempArray[o].split("=")[0]!=param){newAdditionalURL+=temp+tempArray[o];temp="&"}}}else{var tmpAnchor=baseURL.split("#");var TheParams=tmpAnchor[0];theAnchor=tmpAnchor[1];if(TheParams)baseURL=TheParams}if(theAnchor)paramVal+="#"+theAnchor;var rowsTxt=temp+""+param+"="+paramVal;return "//www.qidian.com/all"+"?"+newAdditionalURL+rowsTxt};location.href=setParam("page",document.getElementById("PAGINATION-INPUT").value,location.href)}
+</script>
+
+<div class="lbf-pagination-jump"><input id="PAGINATION-INPUT" type="text" class="lbf-pagination-input" value="1" /><a href="javascript:;" id="PAGINATION-BUTTON" onclick=PAGINATION_goInput() class="lbf-pagination-go">GO</a></div>
+
+<script data-ignore="true" id="LBFnode" src="//qidian.gtimg.com/lbf/1.1.0/LBF.js?max_age=31536000"></script>5usod64dpa8.jpg","adCategoryName":"广告","colorType":0,"type":1,"isAdv":1,"adJumpUrl":"https://game.qidian.com/Game/Play/index?gameId=201093&qd_game_key=1200x60.jpg&qd_dd_p1=86459","hasAd":1},="_blank">沪B2-20080046-1</a>&nbsp;出版经营许可证：新出发沪批字第 U3718 号&nbsp;网络文化经营许可证：沪网文[2015]0081-031 （总）网出证（沪）字第006号</p>
+<script>
+    // LBF 配置
+    LBF.config({"paths":{"site":"//qidian.gtimg.com/qd/js","qd":"//qidian.gtimg.com/qd","common":"//qidian.gtimg.com/common/1.0.0"},"vars":{"theme":"//qidian.gtimg.com/qd/css"},"combo":true,"debug":false});
+    LBF.use(['lib.jQuery'], function ($) {
+        window.$ = $;
+    });
+</script>
+<script>
+    LBF.use(['monitor.SpeedReport', 'qd/js/component/login.cf26f.js', 'qd/js/all_finish_free/common.049e7.js' ], function (SpeedReport, Login, Index) {
+        // 页面逻辑入口
+        if(Login){
+            Login.init().always(function(){
+                Index && typeof Index === 'function' && new Index();
+            })
+        }
+        if(219 && 219 != ''){
+            $(window).on('load.speedReport', function () {
+                // speedTimer[onload]
+                speedTimer.push(new Date().getTime());
+                var f1 = 7718, // china reading limited's ID
+                        f2 = 219, // site ID
+                        f3 = 10; // page ID
+                // chrome & IE9 Performance API
+                SpeedReport.reportPerformance({
+                    flag1: f1,
+                    flag2: f2,
+                    flag3IE: f3,
+                    flag3Chrome: f3,
+                    rate:0.1,
+                    url: '//isdspeed.qidian.com/cgi-bin/r.cgi'
+                });
+                // common speedTimer:['dom ready', 'onload']
+                var speedReport = SpeedReport.create({
+                    flag1: f1,
+                    flag2: f2,
+                    flag3: f3,
+                    start: speedZero,
+                    rate:0.1,
+                    url: '//isdspeed.qidian.com/cgi-bin/r.cgi'
+                });
+                // chrome & IE9 Performance API range 1~19, common speedTimer use 20+
+                for (var i = 0; i < speedTimer.length; i++) {
+                    speedReport.add(speedTimer[i], i + 20)
+                }
+                // http://isdspeed.qq.com/cgi-bin/r.cgi?flag1=7718&flag2=224&flag3=1&1=38&2=38&…
+                speedReport.send();
+            })
+        }
+    });
+    speedTimer.push(new Date().getTime());
+</script>
+<script>
+    var _mtac = {};
+    (function() {
+        var mta = document.createElement("script");
+        mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.2";
+        mta.setAttribute("name", "MTAH5");
+        mta.setAttribute("sid", "500451537");
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(mta, s);
+    })();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['QDAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://noah2-1252317822.file.myqcloud.com/npm/@noah-common/yep@0.0.46/dist/yep.js','yep');
+  yep('set', {
+    appid: 10038,
+    rate: 0.02
+  })
+</script>
+</html>
